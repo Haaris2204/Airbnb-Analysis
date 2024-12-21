@@ -26,11 +26,8 @@ The project utilizes MongoDB Atlas as the data source, containing sample Airbnb 
 ## **MongoDB Connection and Data Retrieval**
 
 We established a connection to MongoDB Atlas and retrieved the Airbnb dataset. MongoDB queries and data retrieval operations were performed to extract the necessary information for analysis.
-
 ## **Data Cleaning and Preparation**
-
 The dataset underwent a comprehensive data cleaning and preparation process. This involved handling missing values, removing duplicates, and converting data types for accurate analysis. The dataset was made ready for exploratory data analysis and visualization tasks.
-
 ## **Geospatial Visualization using Streamlit**
 
 We developed a Streamlit web application that utilizes geospatial data from the Airbnb dataset. Interactive maps were created to visualize the distribution of Airbnb listings across different locations, allowing users to explore prices, ratings, and other relevant factors.
