@@ -1,6 +1,7 @@
 ## <ins> AIRBNB ANALYSIS </ins>
 
 # 1.Introduction
+
 **Project Overview**  
      The Airbnb Analysis project focuses on analyzing Airbnb data from the travel industry and property management domain. By leveraging MongoDB Atlas and various data analysis and visualization tools, we aim to extract valuable insights into pricing dynamics, availability patterns, and location-based trends in Airbnb listings.
 
@@ -21,9 +22,10 @@
    The project utilizes MongoDB Atlas as the data source, containing sample Airbnb data. The data includes information about listings, hosts, neighborhoods, pricing, ratings, and more.
 
 # 2.Methodology
+
 **MongoDB Connection and Data Retrieval**
-  MongoDB Connection and Data Retrieval
-We established a connection to MongoDB Atlas and retrieved the Airbnb dataset. MongoDB queries and data retrieval operations were performed to extract the necessary information for analysis.
+
+  We established a connection to MongoDB Atlas and retrieved the Airbnb dataset. MongoDB queries and data retrieval operations were performed to extract the necessary information for analysis.
 
 **Data Cleaning and Preparation**
 The dataset underwent a comprehensive data cleaning and preparation process. This involved handling missing values, removing duplicates, and converting data types for accurate analysis. The dataset was made ready for exploratory data analysis and visualization tasks.
