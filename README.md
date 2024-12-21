@@ -7,7 +7,7 @@ The Airbnb Analysis project focuses on analyzing Airbnb data from the travel ind
 
 ## **Objectives** 
 
-  The primary objectives of this project include:
+ The primary objectives of this project include:
 
  1.Establishing a connection to MongoDB Atlas and retrieving Airbnb dataset efficiently.</br>
  2.Cleaning and preparing the dataset to ensure data integrity and consistency.</br>
